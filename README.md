@@ -1,6 +1,7 @@
 # AngularNg2Charts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+This template makes data visualisations charts in angular using ng2-charts library. This template contains example of Bar Chart, Line Chart, Pie Chart etc. and user can easily change the chart type from the buttons given in the template
 
 ## Development server
 
